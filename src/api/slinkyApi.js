@@ -8,7 +8,7 @@ export default class SlinkyApi {
       this._apiPass = config.apiPass;
 
       // TODO remove: hardcoded for testing
-      this._token = process.env.VUE_APP_TEST_TOKEN;
+      this._token = process.env.VUE_APP_API_TEST_TOKEN;
     }
 
     async authorize() {

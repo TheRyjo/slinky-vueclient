@@ -88,7 +88,7 @@ export default {
         'crawl url [absoluteURL]',
         'crawl word [word]',
         'sites ls',
-        'sites top5',
+        'sites get5',
         'stop',
         'reset'].join(', ')}`)
     }

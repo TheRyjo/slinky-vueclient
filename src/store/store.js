@@ -108,6 +108,7 @@ export default new Vuex.Store({
       state.fgData = JSONClone(STATICS.emptyData);
       state.fgNodeIdMap = new Map();
       state.crawlerExecutors = [];
+      state.crawlerExecutorsActive = []; // See state note, crawlerExecutorsActive
     }
   },
   actions: {
