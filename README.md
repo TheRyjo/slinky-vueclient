@@ -1,5 +1,7 @@
 # slinky-vueclient
 
+![slinky](./public/slinky.jpg)
+
 ## Project setup
 ```
 npm install
