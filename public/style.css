@@ -1,0 +1,10 @@
+html {
+    background-color: #F3F3F3;
+}
+#app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
